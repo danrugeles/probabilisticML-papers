@@ -1,14 +1,18 @@
 
+### 2010
+
+- Supervised Topic Models [(arXiv)](https://arxiv.org/pdf/1003.0783.pdf)
+
 ### 2009
-- Relational Topic Models for Document Networks[(AISTATS)](proceedings.mlr.press/v5/chang09a/chang09a.pdf)]
+- Relational Topic Models for Document Networks[(AISTATS)](proceedings.mlr.press/v5/chang09a/chang09a.pdf)
 
 #### 2003
 
-- Latent Dirichlet Allocation [(JMLR)](www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)]
+- Latent Dirichlet Allocation [(JMLR)](www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
 #### 1992
 
-- Explaining the Gibbs Sampler [(JSTOR)](http://biostat.jhsph.edu/~mmccall/articles/casella_1992.pdf)]
+- Explaining the Gibbs Sampler [(JSTOR)](http://biostat.jhsph.edu/~mmccall/articles/casella_1992.pdf)
 
 
 
