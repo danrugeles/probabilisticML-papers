@@ -1,4 +1,13 @@
 
+
+### 2012 
+
+
+
+### 2011
+
+- Collaborative Topic Modeling for Recommending Scientific Articles [(KDD)](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
+
 ### 2010
 
 - Supervised Topic Models [(arXiv)](https://arxiv.org/pdf/1003.0783.pdf)
