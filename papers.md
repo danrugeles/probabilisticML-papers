@@ -2,7 +2,8 @@
 
 ### 2012 
 
-
+- Collaborative Topic Regression with Social Matrix Factorization for
+Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 ### 2011
 
