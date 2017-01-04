@@ -1,4 +1,7 @@
 
+### Nov 2016
+
+- Variational Inference: A review for statisticians [(arxViv)](https://arxiv.org/pdf/1601.00670.pdf)
 
 ### 2012 
 
