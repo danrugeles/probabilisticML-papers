@@ -8,6 +8,8 @@
 - Collaborative Topic Regression with Social Matrix Factorization for
 Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
+- The Author-Topic Model for Authors and Documents[(arxViv)](https://arxiv.org/abs/1207.4169)
+
 ### 2011
 
 - Collaborative Topic Modeling for Recommending Scientific Articles [(KDD)](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
