@@ -1,4 +1,6 @@
 
+
+
 ### Nov 2016
 
 - Variational Inference: A review for statisticians [(arxViv)](https://arxiv.org/pdf/1601.00670.pdf)
@@ -30,5 +32,6 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - Explaining the Gibbs Sampler [(JSTOR)](http://biostat.jhsph.edu/~mmccall/articles/casella_1992.pdf)
 
 
+*Learning Material*
 
-
+- A Tutorial on Variational Bayesian Inference [(web)] http://www.orchid.ac.uk/eprints/40/1/fox_vbtut.pdf 
