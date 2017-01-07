@@ -34,4 +34,6 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 *Learning Material*
 
-- A Tutorial on Variational Bayesian Inference [(web)] http://www.orchid.ac.uk/eprints/40/1/fox_vbtut.pdf 
+- A Tutorial on Variational Bayesian Inference [(web)](http://www.orchid.ac.uk/eprints/40/1/fox_vbtut.pdf)
+
+- Integrating Out Multinomial Parameters in Latent Dirichlet Allocation and Naive Bayes for Collapsed Gibbs Sampling [(web)](https://lingpipe.files.wordpress.com/2010/07/lda3.pdf)
