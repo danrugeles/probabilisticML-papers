@@ -3,14 +3,14 @@
 
 ### Nov 2016
 
-- Variational Inference: A review for statisticians [(arxViv)](https://arxiv.org/pdf/1601.00670.pdf)
+- Variational Inference: A review for statisticians [(arXviv)](https://arxiv.org/pdf/1601.00670.pdf)
 
 ### 2012 
 
 - Collaborative Topic Regression with Social Matrix Factorization for
 Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
-- The Author-Topic Model for Authors and Documents[(arxViv)](https://arxiv.org/abs/1207.4169)
+- The Author-Topic Model for Authors and Documents[(arXviv)](https://arxiv.org/abs/1207.4169)
 
 ### 2011
 
@@ -41,3 +41,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - A Tutorial on Variational Bayesian Inference [(web)](http://www.orchid.ac.uk/eprints/40/1/fox_vbtut.pdf)
 
 - Integrating Out Multinomial Parameters in Latent Dirichlet Allocation and Naive Bayes for Collapsed Gibbs Sampling [(web)](https://lingpipe.files.wordpress.com/2010/07/lda3.pdf)
+
+
+*Surveys*
+- Link Prediction in Complex Networks (2011): A Survey [(arXviv)](https://arxiv.org/abs/1010.0725)
