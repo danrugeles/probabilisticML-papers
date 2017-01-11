@@ -12,6 +12,8 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - The Author-Topic Model for Authors and Documents[(arXviv)](https://arxiv.org/abs/1207.4169)
 
+- Learning to Discover Social Circles in Ego Networks [NIPS](http://papers.nips.cc/paper/4532-learning-to-discover-social-circles-in-ego-networks.pdf)
+
 ### 2011
 
 - Collaborative Topic Modeling for Recommending Scientific Articles [(KDD)](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
