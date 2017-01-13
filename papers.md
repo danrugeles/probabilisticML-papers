@@ -21,6 +21,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 ### 2010
 
 - Supervised Topic Models [(arXiv)](https://arxiv.org/pdf/1003.0783.pdf)
+- The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies [(JACM)](https://cocosci.berkeley.edu/tom/papers/ncrp.pdf)
 
 ### 2009
 - Relational Topic Models for Document Networks[(AISTATS)](proceedings.mlr.press/v5/chang09a/chang09a.pdf)
