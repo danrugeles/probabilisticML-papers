@@ -17,9 +17,11 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 ### 2011
 
 - Collaborative Topic Modeling for Recommending Scientific Articles [(KDD)](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
+- 
 
 ### 2010
 
+- Stochastic blockmodels and community structure in networks [(arXviv)](https://arxiv.org/pdf/1008.3926.pdf)
 - Supervised Topic Models [(arXiv)](https://arxiv.org/pdf/1003.0783.pdf)
 - The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies [(JACM)](https://cocosci.berkeley.edu/tom/papers/ncrp.pdf)
 
