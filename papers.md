@@ -26,7 +26,9 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies [(JACM)](https://cocosci.berkeley.edu/tom/papers/ncrp.pdf)
 
 ### 2009
-- Relational Topic Models for Document Networks[(AISTATS)](proceedings.mlr.press/v5/chang09a/chang09a.pdf)
+- Relational Topic Models for Document Networks[(AISTATS)](http://proceedings.mlr.press/v5/chang09a/chang09a.pdf)
+
+- Nonparametric Latent Feature Models for Link Prediction [(NIPS)](http://papers.nips.cc/paper/3846-nonparametric-latent-feature-models-for-link-prediction.pdf)
 
 ### 2008
 - Mixed Membership Stochastic Blockmodel [(JMLR)](http://jmlr.csail.mit.edu/papers/volume9/airoldi08a/airoldi08a.pdf)
