@@ -16,6 +16,9 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 ### 2011
 
+
+- An R Package for Fitting Topic Models [(JSS)](http://epub.wu.ac.at/3987/1/topicmodels.pdf)
+
 - Collaborative Topic Modeling for Recommending Scientific Articles [(KDD)](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
 - 
 
@@ -29,6 +32,8 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - Relational Topic Models for Document Networks[(AISTATS)](http://proceedings.mlr.press/v5/chang09a/chang09a.pdf)
 
 - Nonparametric Latent Feature Models for Link Prediction [(NIPS)](http://papers.nips.cc/paper/3846-nonparametric-latent-feature-models-for-link-prediction.pdf)
+
+- 
 
 ### 2008
 - Mixed Membership Stochastic Blockmodel [(JMLR)](http://jmlr.csail.mit.edu/papers/volume9/airoldi08a/airoldi08a.pdf)
