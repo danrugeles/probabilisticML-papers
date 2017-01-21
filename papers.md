@@ -37,6 +37,10 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 ### 2008
 - Mixed Membership Stochastic Blockmodel [(JMLR)](http://jmlr.csail.mit.edu/papers/volume9/airoldi08a/airoldi08a.pdf)
 
+### 2006
+
+Dynamic topic models [()](https://mimno.infosci.cornell.edu/info6150/readings/dynamic_topic_models.pdf)
+
 ###  2004
 - Finding scientific topics [(PNAS)](http://psiexp.ss.uci.edu/research/papers/sciencetopics.pdf)
 
