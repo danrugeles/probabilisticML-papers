@@ -33,6 +33,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - Nonparametric Latent Feature Models for Link Prediction [(NIPS)](http://papers.nips.cc/paper/3846-nonparametric-latent-feature-models-for-link-prediction.pdf)
 
+- Labeled LDA: a supervised topic model for credit attribution in multi-labeled corpora [(EMNLP)](https://nlp.stanford.edu/pubs/llda-emnlp09.pdf)
 
 ### 2008
 - Mixed Membership Stochastic Blockmodel [(JMLR)](http://jmlr.csail.mit.edu/papers/volume9/airoldi08a/airoldi08a.pdf)
@@ -62,6 +63,6 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 *Surveys*
 - Link Prediction in Complex Networks (2011): A Survey [(arXviv)](https://arxiv.org/pdf/1010.0725)
-- A survey of statistical network models [arXviv](https://arxiv.org/pdf/0912.5410.pdf)
+- A survey of statistical network models [(arXviv)](https://arxiv.org/pdf/0912.5410.pdf)
 
 
