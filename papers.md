@@ -28,6 +28,9 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - Supervised Topic Models [(arXiv)](https://arxiv.org/pdf/1003.0783.pdf)
 - The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies [(JACM)](https://cocosci.berkeley.edu/tom/papers/ncrp.pdf)
 
+
+- Online Learning for Latent Dirichlet Allocation [(NIPS)](http://papers.nips.cc/paper/3902-online-learning-for-latent-dirichlet-allocation)
+
 ### 2009
 - Relational Topic Models for Document Networks[(AISTATS)](http://proceedings.mlr.press/v5/chang09a/chang09a.pdf)
 
