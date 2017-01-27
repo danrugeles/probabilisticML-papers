@@ -29,7 +29,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies [(JACM)](https://cocosci.berkeley.edu/tom/papers/ncrp.pdf)
 
 
-- Online Learning for Latent Dirichlet Allocation [(NIPS)](http://papers.nips.cc/paper/3902-online-learning-for-latent-dirichlet-allocation)
+- Online Learning for Latent Dirichlet Allocation [(NIPS)](http://papers.nips.cc/paper/3902-online-learning-for-latent-dirichlet-allocation.pdf)
 
 ### 2009
 - Relational Topic Models for Document Networks[(AISTATS)](http://proceedings.mlr.press/v5/chang09a/chang09a.pdf)
@@ -43,7 +43,10 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 ### 2006
 - LDA-Based Document Models for Ad-hoc Retrieval [(SIGIR)](https://ai2-s2-pdfs.s3.amazonaws.com/0ef3/11acf523d4d0e2cc5f747a6508af2c89c5f7.pdf)
+
 - Dynamic topic models [(ICML)](https://mimno.infosci.cornell.edu/info6150/readings/dynamic_topic_models.pdf)
+
+- Topics over time: a non-Markov continuous-time model of topical trends [(KDD)](https://pdfs.semanticscholar.org/7f8a/bf25ca24b48450b4e535f41e2b8a87df73f5.pdf)
 
 ###  2004
 - Finding scientific topics [(PNAS)](http://psiexp.ss.uci.edu/research/papers/sciencetopics.pdf)
