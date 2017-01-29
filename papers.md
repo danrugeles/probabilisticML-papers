@@ -5,6 +5,9 @@
 
 - Variational Inference: A review for statisticians [(arXviv)](https://arxiv.org/pdf/1601.00670.pdf)
 
+### 2013
+- Stochastic Variational Inference [(JMLR)](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
+
 ### 2012 
 
 - Collaborative Topic Regression with Social Matrix Factorization for
