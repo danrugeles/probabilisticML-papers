@@ -37,6 +37,9 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - Online Learning for Latent Dirichlet Allocation [(NIPS)](http://papers.nips.cc/paper/3902-online-learning-for-latent-dirichlet-allocation.pdf)
 
 ### 2009
+
+- Rethinking LDA: Why Priors Matter [(NIPS)] (http://papers.nips.cc/paper/3854-rethinking-lda-why-priors-matter.pdf)
+
 - Evaluation Methods for Topic Models [(NIPS)](http://dirichlet.net/pdf/wallach09evaluation.pdf)
 
 - Relational Topic Models for Document Networks[(AISTATS)](http://proceedings.mlr.press/v5/chang09a/chang09a.pdf)
