@@ -17,6 +17,8 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - Learning to Discover Social Circles in Ego Networks [NIPS](http://papers.nips.cc/paper/4532-learning-to-discover-social-circles-in-ego-networks.pdf)
 
+- On Smoothing and Inference for Topic Models [(UAI)](https://arxiv.org/pdf/1205.2662.pdf)
+
 ### 2011
 
 
@@ -35,6 +37,8 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - Online Learning for Latent Dirichlet Allocation [(NIPS)](http://papers.nips.cc/paper/3902-online-learning-for-latent-dirichlet-allocation.pdf)
 
 ### 2009
+- Evaluation Methods for Topic Models [(NIPS)](http://dirichlet.net/pdf/wallach09evaluation.pdf)
+
 - Relational Topic Models for Document Networks[(AISTATS)](http://proceedings.mlr.press/v5/chang09a/chang09a.pdf)
 
 - Nonparametric Latent Feature Models for Link Prediction [(NIPS)](http://papers.nips.cc/paper/3846-nonparametric-latent-feature-models-for-link-prediction.pdf)
