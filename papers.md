@@ -61,7 +61,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - LDA-Based Document Models for Ad-hoc Retrieval [(SIGIR)](https://ai2-s2-pdfs.s3.amazonaws.com/0ef3/11acf523d4d0e2cc5f747a6508af2c89c5f7.pdf)
 
-- Dynamic topic models [(ICML)](https://mimno.infosci.cornell.edu/info6150/readings/dynamic_topic_models.pdf)
+- Dynamic topic models [()](https://mimno.infosci.cornell.edu/info6150/readings/dynamic_topic_models.pdf)
 
 - Topic modeling: beyond bag-of-words [(ICML)] (dirichlet.net/pdf/wallach06topic.pdf)
 
