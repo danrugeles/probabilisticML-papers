@@ -4,6 +4,9 @@
 ### Nov 2016
 
 - Variational Inference: A review for statisticians [(arXviv)](https://arxiv.org/pdf/1601.00670.pdf)
+### 2014
+
+- Reducing the Sampling Complexity of Topic Models [(KDD)](http://www.sravi.org/pubs/fastlda-kdd2014.pdf)
 
 ### 2013
 - Stochastic Variational Inference [(JMLR)](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
