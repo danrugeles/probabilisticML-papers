@@ -4,6 +4,10 @@
 ### Nov 2016
 
 - Variational Inference: A review for statisticians [(arXviv)](https://arxiv.org/pdf/1601.00670.pdf)
+
+### Feb 2016
+- Content-based Video Indexing and Retrieval Using Corr-LDA [(arXviv)](Content-based Video Indexing and Retrieval Using Corr-LDA)
+
 ### 2014
 
 - Reducing the Sampling Complexity of Topic Models [(KDD)](http://www.sravi.org/pubs/fastlda-kdd2014.pdf)
