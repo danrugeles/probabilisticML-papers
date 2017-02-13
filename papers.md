@@ -12,6 +12,8 @@
 
 - Reducing the Sampling Complexity of Topic Models [(KDD)](http://www.sravi.org/pubs/fastlda-kdd2014.pdf)
 
+- Going Beyond Corr-LDA for Detecting Specific Comments
+on News & Blogs[(WSDM)](http://mllab.csa.iisc.ernet.in/sctm/wsdm14.pdf)
 ### 2013
 - Stochastic Variational Inference [(JMLR)](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
 
