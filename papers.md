@@ -14,6 +14,8 @@
 
 - Going Beyond Corr-LDA for Detecting Specific Comments
 on News & Blogs[(WSDM)](http://mllab.csa.iisc.ernet.in/sctm/wsdm14.pdf)
+
+
 ### 2013
 - Stochastic Variational Inference [(JMLR)](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
 
@@ -44,7 +46,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - Online Learning for Latent Dirichlet Allocation [(JMLR)](http://www.jmlr.org/papers/volume10/newman09a/newman09a.pdf)
 
 ### 2009
--  Distributed Algorithms for Topic Models [()]()
+-  Distributed Algorithms for Topic Models [(JMLR)](www.jmlr.org/papers/volume10/newman09a/newman09a.pdf)
 - Rethinking LDA: Why Priors Matter [(NIPS)] (http://papers.nips.cc/paper/3854-rethinking-lda-why-priors-matter.pdf)
 
 - Evaluation Methods for Topic Models [(NIPS)](http://dirichlet.net/pdf/wallach09evaluation.pdf)
