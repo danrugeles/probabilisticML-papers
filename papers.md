@@ -15,8 +15,12 @@
 - Going Beyond Corr-LDA for Detecting Specific Comments
 on News & Blogs[(WSDM)](http://mllab.csa.iisc.ernet.in/sctm/wsdm14.pdf)
 
+- SAME but Different: Fast and High-Quality Gibbs
+Parameter Estimation[(arXviv)](https://arxiv.org/pdf/1409.5402.pdf)
+
 
 ### 2013
+
 - Stochastic Variational Inference [(JMLR)](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
 
 ### 2012 
@@ -32,13 +36,13 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 ### 2011
 
-
 - An R Package for Fitting Topic Models [(JSS)](http://epub.wu.ac.at/3987/1/topicmodels.pdf)
 
 - Collaborative Topic Modeling for Recommending Scientific Articles [(KDD)](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
 - 
 
 ### 2010
+
 - TwitterRank: finding topic-sensitive influential twitterers[(WSDM)](http://dl.acm.org/citation.cfm?id=1718520)
 - Stochastic blockmodels and community structure in networks [(arXviv)](https://arxiv.org/pdf/1008.3926.pdf)
 - Supervised Topic Models [(arXiv)](https://arxiv.org/pdf/1003.0783.pdf)
@@ -46,6 +50,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - Online Learning for Latent Dirichlet Allocation [(JMLR)](http://www.jmlr.org/papers/volume10/newman09a/newman09a.pdf)
 
 ### 2009
+
 -  Distributed Algorithms for Topic Models [(JMLR)](www.jmlr.org/papers/volume10/newman09a/newman09a.pdf)
 - Rethinking LDA: Why Priors Matter [(NIPS)] (http://papers.nips.cc/paper/3854-rethinking-lda-why-priors-matter.pdf)
 
@@ -58,11 +63,13 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - Labeled LDA: a supervised topic model for credit attribution in multi-labeled corpora [(EMNLP)](https://nlp.stanford.edu/pubs/llda-emnlp09.pdf)
 
 ### 2008
+
 - Mixed Membership Stochastic Blockmodel [(JMLR)](http://jmlr.csail.mit.edu/papers/volume9/airoldi08a/airoldi08a.pdf)
 
 - Modeling online reviews with multi-grain topic models [(arXviv)](Modeling Online Reviews with Multi-grain Topic Models)
 
 ### 2007
+
 - A Correlated Topic Model of Science[(AOAS)]( A Correlated Topic Model of Science )
 - A Collapsed Variational Bayesian Inference Algorithm for Latent Dirichlet Allocation[(NIPS)](http://papers.nips.cc/paper/3113-a-collapsed-variational-bayesian-inference-algorithm-for-latent-dirichlet-allocation.pdf)
 
@@ -94,6 +101,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - Integrating Out Multinomial Parameters in Latent Dirichlet Allocation and Naive Bayes for Collapsed Gibbs Sampling [(web)](https://lingpipe.files.wordpress.com/2010/07/lda3.pdf)
 
+- 
 
 *Surveys*
 - Link Prediction in Complex Networks (2011): A Survey [(arXviv)](https://arxiv.org/pdf/1010.0725)
