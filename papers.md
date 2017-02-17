@@ -18,8 +18,10 @@ on News & Blogs[(WSDM)](http://mllab.csa.iisc.ernet.in/sctm/wsdm14.pdf)
 - SAME but Different: Fast and High-Quality Gibbs
 Parameter Estimation[(arXviv)](https://arxiv.org/pdf/1409.5402.pdf)
 
+- Black Box Variational Inference[(NIPS)](www.cs.columbia.edu/~blei/papers/RanganathGerrishBlei2014.pdf)
 
 ### 2013
+
 
 - Stochastic Variational Inference [(JMLR)](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
 
