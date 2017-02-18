@@ -27,6 +27,8 @@ Parameter Estimation[(arXviv)](https://arxiv.org/pdf/1409.5402.pdf)
 
 ### 2012 
 
+- MCMC using Hamiltonian dynamics [(arXviv)](https://arxiv.org/pdf/1206.1901.pdf)
+
 - Collaborative Topic Regression with Social Matrix Factorization for
 Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
