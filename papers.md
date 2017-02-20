@@ -1,6 +1,7 @@
 
+### Jan 2017
 
-
+- A  Conceptual  Introduction  to  Hamiltonean Monte  Carlo [(arXviv)](https://arxiv.org/pdf/1701.02434.pdf)
 ### Nov 2016
 
 - Variational Inference: A review for statisticians [(arXviv)](https://arxiv.org/pdf/1601.00670.pdf)
