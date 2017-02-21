@@ -106,7 +106,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - Integrating Out Multinomial Parameters in Latent Dirichlet Allocation and Naive Bayes for Collapsed Gibbs Sampling [(web)](https://lingpipe.files.wordpress.com/2010/07/lda3.pdf)
 
-- 
+- Hamiltonean Monte Carlo Explained [(web)](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
 
 *Surveys*
 - Link Prediction in Complex Networks (2011): A Survey [(arXviv)](https://arxiv.org/pdf/1010.0725)
