@@ -1,4 +1,5 @@
 
+
 ### Jan 2017
 
 - A  Conceptual  Introduction  to  Hamiltonean Monte  Carlo [(arXviv)](https://arxiv.org/pdf/1701.02434.pdf)
@@ -7,6 +8,15 @@
 
 - Correlated Random Measures [(arXviv)] (https://arxiv.org/pdf/1507.00720.pdf)
 - Variational Inference: A review for statisticians [(arXviv)](https://arxiv.org/pdf/1601.00670.pdf)
+
+
+### Apr 2016
+
+- Posteriors, conjugacy, and exponential families for completely random measures [(arXviv)](https://arxiv.org/pdf/1410.6843.pdf)
+
+### Mar 2016
+- Automatic Differentiation Variational Inference ([arXviv])(https://arxiv.org/pdf/1603.00788.pdf)
+
 
 ### Feb 2016
 - Content-based Video Indexing and Retrieval Using Corr-LDA [(arXviv)](Content-based Video Indexing and Retrieval Using Corr-LDA)
