@@ -23,6 +23,7 @@
 
 ### 2014
 
+Bayesian Nonparametric Poisson Factorization for Recommendation Systems [(AISTATS)](http://proceedings.mlr.press/v33/gopalan14.pdf)
 - Reducing the Sampling Complexity of Topic Models [(KDD)](http://www.sravi.org/pubs/fastlda-kdd2014.pdf)
 
 - Going Beyond Corr-LDA for Detecting Specific Comments
