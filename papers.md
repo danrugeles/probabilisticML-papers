@@ -121,6 +121,8 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - Hamiltonean Monte Carlo Explained [(web)](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
 
+- The Bayesian Approach [(web)](https://www.cs.cmu.edu/~scohen/psnlp-lecture6.pdf)
+
 *Surveys*
 - Link Prediction in Complex Networks (2011): A Survey [(arXviv)](https://arxiv.org/pdf/1010.0725)
 - A survey of statistical network models [(arXviv)](https://arxiv.org/pdf/0912.5410.pdf)
