@@ -39,6 +39,7 @@ Parameter Estimation[(arXviv)](https://arxiv.org/pdf/1409.5402.pdf)
 
 - Stochastic Variational Inference [(JMLR)](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
 
+- Collapsed Variational Bayesian Inference for Hidden Markov Models[(AISTATS)](http://proceedings.mlr.press/v31/wang13b.pdf)
 ### 2012 
 
 - MCMC using Hamiltonian dynamics [(arXviv)](https://arxiv.org/pdf/1206.1901.pdf)
@@ -79,6 +80,8 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - Nonparametric Latent Feature Models for Link Prediction [(NIPS)](http://papers.nips.cc/paper/3846-nonparametric-latent-feature-models-for-link-prediction.pdf)
 
 - Labeled LDA: a supervised topic model for credit attribution in multi-labeled corpora [(EMNLP)](https://nlp.stanford.edu/pubs/llda-emnlp09.pdf)
+
+- Hidden Markov Models With Stick-Breaking Priors [(IEE)](http://www.columbia.edu/~jwp2128/Papers/PaisleyCarin2009c.pdf)
 
 ### 2008
 
