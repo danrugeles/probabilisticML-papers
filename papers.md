@@ -104,6 +104,9 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - Topics over time: a non-Markov continuous-time model of topical trends [(KDD)](https://pdfs.semanticscholar.org/7f8a/bf25ca24b48450b4e535f41e2b8a87df73f5.pdf)
 
+### 2005
+- Hierarchical Dirichlet Processes (https://people.eecs.berkeley.edu/~jordan/papers/hdp.pdf)
+
 ###  2004
 - Finding scientific topics [(PNAS)](http://psiexp.ss.uci.edu/research/papers/sciencetopics.pdf)
 
