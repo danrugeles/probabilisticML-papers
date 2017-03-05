@@ -129,6 +129,8 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - The Bayesian Approach [(web)](https://www.cs.cmu.edu/~scohen/psnlp-lecture6.pdf)
 
+- A tutorial on Hierarchical Dirichlet Processes [(web)] (http://mlg.eng.cam.ac.uk/tutorials/07/ywt.pdf)
+
 *Surveys*
 - Link Prediction in Complex Networks (2011): A Survey [(arXviv)](https://arxiv.org/pdf/1010.0725)
 - A survey of statistical network models [(arXviv)](https://arxiv.org/pdf/0912.5410.pdf)
