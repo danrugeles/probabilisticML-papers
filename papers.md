@@ -104,6 +104,8 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - Topics over time: a non-Markov continuous-time model of topical trends [(KDD)](https://pdfs.semanticscholar.org/7f8a/bf25ca24b48450b4e535f41e2b8a87df73f5.pdf)
 
+- A  Hierarchical Bayesian Language Model based on Pitman-Yor Processes[(ACL)](http://www.gatsby.ucl.ac.uk/~ywteh/research/compling/acl2006.pdf)
+
 ### 2005
 - Hierarchical Dirichlet Processes [(ASA)](https://people.eecs.berkeley.edu/~jordan/papers/hdp.pdf)
 
