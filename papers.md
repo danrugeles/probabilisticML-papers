@@ -110,7 +110,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 ### 2005
 - Hierarchical Dirichlet Processes [(ASA)](https://people.eecs.berkeley.edu/~jordan/papers/hdp.pdf)
-
+- Infinite Latent Feature Models and the Indian Buffet Process [(NIPS)](http://papers.nips.cc/paper/2882-infinite-latent-feature-models-and-the-indian-buffet-process.pdf)
 ###  2004
 - Finding scientific topics [(PNAS)](http://psiexp.ss.uci.edu/research/papers/sciencetopics.pdf)
 
