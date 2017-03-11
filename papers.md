@@ -53,6 +53,8 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - On Smoothing and Inference for Topic Models [(UAI)](https://arxiv.org/pdf/1205.2662.pdf)
 
+- Truly Nonparametric Online Variational Inference for Hierarchical Dirichlet Processes[(NIPS)](http://cs.brown.edu/~sudderth/papers/nips12hdpOnline.pdf)
+
 ### 2011
 
 - An R Package for Fitting Topic Models [(JSS)](http://epub.wu.ac.at/3987/1/topicmodels.pdf)
