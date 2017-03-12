@@ -36,6 +36,7 @@ Parameter Estimation[(arXviv)](https://arxiv.org/pdf/1409.5402.pdf)
 
 ### 2013
 
+- Memoized Online Variational Inference for Dirichlet Process Mixture Models [(NIPS)] (http://cs.brown.edu/~sudderth/papers/nips13dpMemoized.pdf)
 
 - Stochastic Variational Inference [(JMLR)](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
 
