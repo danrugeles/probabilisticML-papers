@@ -43,6 +43,7 @@ Parameter Estimation[(arXviv)](https://arxiv.org/pdf/1409.5402.pdf)
 - Collapsed Variational Bayesian Inference for Hidden Markov Models[(AISTATS)](http://proceedings.mlr.press/v31/wang13b.pdf)
 ### 2012 
 
+- A tutorial on Bayesian nonparametric models[(Elsevier)](http://gershmanlab.webfactional.com/pubs/GershmanBlei12.pdf)
 - MCMC using Hamiltonian dynamics [(arXviv)](https://arxiv.org/pdf/1206.1901.pdf)
 
 - Collaborative Topic Regression with Social Matrix Factorization for
