@@ -12,6 +12,8 @@
 ### Jun 2016
 - Scan Order in Gibbs Sampling: Models in Which it Matters and Bounds on How Much ([NIPS)] (https://arxiv.org/abs/1606.03432)
 
+- Cooperative Graphical Models ([NIPS])(https://las.inf.ethz.ch/files/djolonga16cooperative.pdf)
+
 ### Apr 2016
 
 - Posteriors, conjugacy, and exponential families for completely random measures [(arXviv)](https://arxiv.org/pdf/1410.6843.pdf)
