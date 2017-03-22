@@ -78,7 +78,8 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 ### 2009
 
--  Distributed Algorithms for Topic Models [(JMLR)](www.jmlr.org/papers/volume10/newman09a/newman09a.pdf)
+-  Distributed Algorithms for Topic Models [(JMLR)](http://www.jmlr.org/papers/volume10/newman09a/newman09a.pdf)
+
 - Rethinking LDA: Why Priors Matter [(NIPS)] (http://papers.nips.cc/paper/3854-rethinking-lda-why-priors-matter.pdf)
 
 - Evaluation Methods for Topic Models [(NIPS)](http://dirichlet.net/pdf/wallach09evaluation.pdf)
