@@ -55,7 +55,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - The Author-Topic Model for Authors and Documents[(arXviv)](https://arxiv.org/abs/1207.4169)
 
-- Learning to Discover Social Circles in Ego Networks [NIPS](http://papers.nips.cc/paper/4532-learning-to-discover-social-circles-in-ego-networks.pdf)
+- Learning to Discover Social Circles in Ego Networks [(NIPS)](http://papers.nips.cc/paper/4532-learning-to-discover-social-circles-in-ego-networks.pdf)
 
 - On Smoothing and Inference for Topic Models [(UAI)](https://arxiv.org/pdf/1205.2662.pdf)
 
@@ -80,7 +80,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 -  Distributed Algorithms for Topic Models [(JMLR)](http://www.jmlr.org/papers/volume10/newman09a/newman09a.pdf)
 
-- Rethinking LDA: Why Priors Matter [(NIPS)] (http://papers.nips.cc/paper/3854-rethinking-lda-why-priors-matter.pdf)
+- Rethinking LDA: Why Priors Matter [(NIPS)](http://papers.nips.cc/paper/3854-rethinking-lda-why-priors-matter.pdf)
 
 - Evaluation Methods for Topic Models [(NIPS)](http://dirichlet.net/pdf/wallach09evaluation.pdf)
 
