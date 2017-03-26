@@ -6,11 +6,11 @@
 
 ### Nov 2016
 
-- Correlated Random Measures [(arXviv)] (https://arxiv.org/pdf/1507.00720.pdf)
+- Correlated Random Measures [(arXviv)](https://arxiv.org/pdf/1507.00720.pdf)
 - Variational Inference: A review for statisticians [(arXviv)](https://arxiv.org/pdf/1601.00670.pdf)
 
 ### Jun 2016
-- Scan Order in Gibbs Sampling: Models in Which it Matters and Bounds on How Much ([NIPS)] (https://arxiv.org/abs/1606.03432)
+- Scan Order in Gibbs Sampling: Models in Which it Matters and Bounds on How Much ([NIPS)](https://arxiv.org/abs/1606.03432)
 
 - Cooperative Graphical Models ([NIPS])(https://las.inf.ethz.ch/files/djolonga16cooperative.pdf)
 
@@ -40,7 +40,7 @@ Parameter Estimation[(arXviv)](https://arxiv.org/pdf/1409.5402.pdf)
 
 ### 2013
 
-- Memoized Online Variational Inference for Dirichlet Process Mixture Models [(NIPS)] (http://cs.brown.edu/~sudderth/papers/nips13dpMemoized.pdf)
+- Memoized Online Variational Inference for Dirichlet Process Mixture Models [(NIPS)](http://cs.brown.edu/~sudderth/papers/nips13dpMemoized.pdf)
 
 - Stochastic Variational Inference [(JMLR)](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
 
@@ -66,7 +66,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 - An R Package for Fitting Topic Models [(JSS)](http://epub.wu.ac.at/3987/1/topicmodels.pdf)
 
 - Collaborative Topic Modeling for Recommending Scientific Articles [(KDD)](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
-- 
+
 
 ### 2010
 
@@ -111,7 +111,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - Dynamic topic models [(ICML)](https://mimno.infosci.cornell.edu/info6150/readings/dynamic_topic_models.pdf)
 
-- Topic modeling: beyond bag-of-words [(ICML)] (dirichlet.net/pdf/wallach06topic.pdf)
+- Topic modeling: beyond bag-of-words [(ICML)](dirichlet.net/pdf/wallach06topic.pdf)
 
 - Topics over time: a non-Markov continuous-time model of topical trends [(KDD)](https://pdfs.semanticscholar.org/7f8a/bf25ca24b48450b4e535f41e2b8a87df73f5.pdf)
 
@@ -142,7 +142,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 - The Bayesian Approach [(web)](https://www.cs.cmu.edu/~scohen/psnlp-lecture6.pdf)
 
-- A tutorial on Hierarchical Dirichlet Processes [(web)] (http://mlg.eng.cam.ac.uk/tutorials/07/ywt.pdf)
+- A tutorial on Hierarchical Dirichlet Processes [(web)](http://mlg.eng.cam.ac.uk/tutorials/07/ywt.pdf)
 
 *Surveys*
 - Link Prediction in Complex Networks (2011): A Survey [(arXviv)](https://arxiv.org/pdf/1010.0725)
