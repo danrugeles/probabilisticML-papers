@@ -19,7 +19,7 @@
 - Posteriors, conjugacy, and exponential families for completely random measures [(arXviv)](https://arxiv.org/pdf/1410.6843.pdf)
 
 ### Mar 2016
-- Automatic Differentiation Variational Inference ([arXviv])(https://arxiv.org/pdf/1603.00788.pdf)
+- Automatic Differentiation Variational Inference [(arXviv)](https://arxiv.org/pdf/1603.00788.pdf)
 
 
 ### Feb 2016
@@ -102,8 +102,8 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 
 ### 2007
 - Hierarchical Beta Processes and the Indian Buffet Process [(AISTATS)](http://proceedings.mlr.press/v2/thibaux07a/thibaux07a.pdf)
-- A Correlated Topic Model of Science[(AOAS)]( A Correlated Topic Model of Science )
-- A Collapsed Variational Bayesian Inference Algorithm for Latent Dirichlet Allocation[(NIPS)](http://papers.nips.cc/paper/3113-a-collapsed-variational-bayesian-inference-algorithm-for-latent-dirichlet-allocation.pdf)
+- A Correlated Topic Model of Science [(AOAS)](A Correlated Topic Model of Science)
+- A Collapsed Variational Bayesian Inference Algorithm for Latent Dirichlet Allocation [(NIPS)](http://papers.nips.cc/paper/3113-a-collapsed-variational-bayesian-inference-algorithm-for-latent-dirichlet-allocation.pdf)
 
 ### 2006
 
@@ -120,6 +120,7 @@ Recommendation Systems [(ICML)](/http://icml.cc/2012/papers/407.pdf)
 ### 2005
 - Hierarchical Dirichlet Processes [(ASA)](https://people.eecs.berkeley.edu/~jordan/papers/hdp.pdf)
 - Infinite Latent Feature Models and the Indian Buffet Process [(NIPS)](http://papers.nips.cc/paper/2882-infinite-latent-feature-models-and-the-indian-buffet-process.pdf)
+
 ###  2004
 - Finding scientific topics [(PNAS)](http://psiexp.ss.uci.edu/research/papers/sciencetopics.pdf)
 
