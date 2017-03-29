@@ -10,6 +10,9 @@
 - Variational Inference: A review for statisticians [(arXviv)](https://arxiv.org/pdf/1601.00670.pdf)
 - Exponential Family Embeddings([arXviv])(https://arxiv.org/pdf/1608.00778.pdf)
 
+### Aug 2016
+- Probabilistic Data Analysis with Probabilistic Programming([NIPS])(https://arxiv.org/pdf/1608.05347.pdf)
+
 ### Jun 2016
 - Scan Order in Gibbs Sampling: Models in Which it Matters and Bounds on How Much ([NIPS)](https://arxiv.org/abs/1606.03432)
 
