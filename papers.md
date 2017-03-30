@@ -18,6 +18,9 @@
 
 - Cooperative Graphical Models ([NIPS])(https://las.inf.ethz.ch/files/djolonga16cooperative.pdf)
 
+- Blind Regression: Nonparametric Regression for
+Latent Variable Models via Collaborative Filtering [(NIPS)](https://papers.nips.cc/paper/6108-blind-regression-nonparametric-regression-for-latent-variable-models-via-collaborative-filtering.pdf)
+
 ### Apr 2016
 
 - Posteriors, conjugacy, and exponential families for completely random measures [(arXviv)](https://arxiv.org/pdf/1410.6843.pdf)
