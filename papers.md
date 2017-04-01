@@ -21,6 +21,8 @@
 - Blind Regression: Nonparametric Regression for
 Latent Variable Models via Collaborative Filtering [(NIPS)](https://papers.nips.cc/paper/6108-blind-regression-nonparametric-regression-for-latent-variable-models-via-collaborative-filtering.pdf)
 
+- Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm [(NIPS)](https://arxiv.org/pdf/1608.04471)
+
 ### Apr 2016
 
 - Posteriors, conjugacy, and exponential families for completely random measures [(arXviv)](https://arxiv.org/pdf/1410.6843.pdf)
