@@ -1,4 +1,6 @@
 
+### March 2017
+- Improving Gibbs Sampler Scan Quality with DoGS [(ICML)](http://mitliagkas.github.io/papers/marginal-gibbs.pdf)
 
 ### Jan 2017
 
