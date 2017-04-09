@@ -1,3 +1,5 @@
+### Apr 2017
+- Fast stochastic optimization on Riemannian manifold [(ICML)](https://arxiv.org/pdf/1605.07147.pdf)
 
 ### March 2017
 - Improving Gibbs Sampler Scan Quality with DoGS [(ICML)](http://mitliagkas.github.io/papers/marginal-gibbs.pdf)
