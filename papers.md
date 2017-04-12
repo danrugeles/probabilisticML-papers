@@ -27,7 +27,7 @@ Latent Variable Models via Collaborative Filtering [(NIPS)](https://papers.nips.
 
 - Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm [(NIPS)](https://arxiv.org/pdf/1608.04471) [(Code)](https://github.com/DartML/Stein-Variational-Gradient-Descent)
 
-- Poisson-Gamma dynamical systems [(NIPS)](https://papers.nips.cc/paper/6083-poisson-gamma-dynamical-systems.pdf)
+- Poisson-Gamma dynamical systems [(NIPS)](https://papers.nips.cc/paper/6083-poisson-gamma-dynamical-systems.pdf) [(Code)](https://github.com/aschein/pgds)
 ### Apr 2016
 
 - Posteriors, conjugacy, and exponential families for completely random measures [(arXviv)](https://arxiv.org/pdf/1410.6843.pdf)
