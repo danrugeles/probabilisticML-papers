@@ -12,7 +12,7 @@
 
 - Correlated Random Measures [(arXviv)](https://arxiv.org/pdf/1507.00720.pdf)
 - Variational Inference: A review for statisticians [(arXviv)](https://arxiv.org/pdf/1601.00670.pdf)
-- Exponential Family Embeddings[(arXviv)](https://arxiv.org/pdf/1608.00778.pdf)
+- Exponential Family Embeddings[(arXviv)](https://arxiv.org/pdf/1608.00778.pdf) [(Code)](https://github.com/franrruiz/p-emb)
 
 ### Aug 2016
 - Probabilistic Data Analysis with Probabilistic Programming[(NIPS)](https://arxiv.org/pdf/1608.05347.pdf)
