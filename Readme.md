@@ -10,14 +10,21 @@
 
 ### Nov 2016
 
+- Exponential Family Embeddings[(arXviv)](https://arxiv.org/pdf/1608.00778.pdf) [(Code)](https://github.com/franrruiz/p-emb)
+
 - Correlated Random Measures [(arXviv)](https://arxiv.org/pdf/1507.00720.pdf)
 - Variational Inference: A review for statisticians [(arXviv)](https://arxiv.org/pdf/1601.00670.pdf)
-- Exponential Family Embeddings[(arXviv)](https://arxiv.org/pdf/1608.00778.pdf) [(Code)](https://github.com/franrruiz/p-emb)
+
+- Gaussian Processes for Survival Analysis [(NIPS)](https://arxiv.org/pdf/1611.00817.pdf)
 
 ### Aug 2016
 - Probabilistic Data Analysis with Probabilistic Programming[(NIPS)](https://arxiv.org/pdf/1608.05347.pdf)
 
 ### Jun 2016
+- Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm [(NIPS)](https://arxiv.org/pdf/1608.04471) [(Code)](https://github.com/DartML/Stein-Variational-Gradient-Descent)
+
+- Poisson-Gamma dynamical systems [(NIPS)](https://papers.nips.cc/paper/6083-poisson-gamma-dynamical-systems.pdf) [(Code)](https://github.com/aschein/pgds)
+
 - Scan Order in Gibbs Sampling: Models in Which it Matters and Bounds on How Much ([NIPS)](https://arxiv.org/abs/1606.03432)
 
 - Cooperative Graphical Models [(NIPS)](https://las.inf.ethz.ch/files/djolonga16cooperative.pdf)
@@ -25,9 +32,6 @@
 - Blind Regression: Nonparametric Regression for
 Latent Variable Models via Collaborative Filtering [(NIPS)](https://papers.nips.cc/paper/6108-blind-regression-nonparametric-regression-for-latent-variable-models-via-collaborative-filtering.pdf)
 
-- Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm [(NIPS)](https://arxiv.org/pdf/1608.04471) [(Code)](https://github.com/DartML/Stein-Variational-Gradient-Descent)
-
-- Poisson-Gamma dynamical systems [(NIPS)](https://papers.nips.cc/paper/6083-poisson-gamma-dynamical-systems.pdf) [(Code)](https://github.com/aschein/pgds)
 ### Apr 2016
 
 - Posteriors, conjugacy, and exponential families for completely random measures [(arXviv)](https://arxiv.org/pdf/1410.6843.pdf)
